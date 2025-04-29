@@ -24,7 +24,7 @@ I’ve designed and deployed production-ready ML/AI-backed platforms, including 
 - **Languages:** Python, JavaScript, TypeScript, Bash  
 - **Backend:** FastAPI, Node.js (Express), GraphQL, WebSockets  
 - **DevOps / Infra:** Docker, GitHub Actions, AWS (EC2, S3, Lambda), Vercel, Northflank  
-- **Databases:** PostgreSQL, Redis, SQLite  
+- **Databases:** PostgreSQL, Redis, SQLite, MongoDB
 - **Tooling:** Poetry, Uvicorn, Pydantic, Sentry, OpenAPI  
 - **Frontend (light):** React, Next.js, Vite
 
