@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Levan Changelia 👋</h1>
+<h1 align="center">Hi, I'm Leva 👋</h1>
 
 <p align="center">
   <strong>Full-Stack Software Engineer · Backend & AI Systems</strong>
