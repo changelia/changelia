@@ -5,28 +5,26 @@
 </p>
 
 <p align="center">
-  Python · FastAPI · Node.js · NestJS · TypeScript · React · Next.js · PostgreSQL · Redis · Docker · LLMs
+  Python · FastAPI · Node.js · NestJS · TypeScript · React · Next.js · PostgreSQL · Redis
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Full-Stack Software Engineer with **6+ years of commercial experience** building production web applications, APIs, distributed backend systems, and AI-powered products.
+I'm a **Full-Stack Software Engineer with 6+ years of commercial experience**, focused on building scalable web applications, backend systems, APIs, and AI-powered products.
 
-My strongest area is backend engineering, but I work across the full stack — from database and API architecture to modern React / Next.js applications.
+My strongest area is backend engineering, while I work comfortably across the full stack — from database and system architecture to modern React and Next.js applications.
 
-I have experience designing and building:
+I focus on:
 
-- ⚡ High-performance APIs and backend services
-- 🤖 AI / LLM-powered applications and agents
-- 🔎 Search, RAG, and data-processing systems
-- 🏗️ Scalable application architectures
-- 🔄 Background jobs, queues, caching, and async workflows
-- ☁️ Production deployments and CI/CD pipelines
-- 🖥️ Full-stack SaaS and web applications
-
-I enjoy solving engineering problems where **architecture, performance, reliability, and product requirements meet**.
+- Building scalable APIs and backend services
+- Designing reliable application architectures
+- Developing full-stack web applications
+- AI / LLM integrations and agentic systems
+- Async processing, background jobs, queues, and caching
+- Database design and performance
+- CI/CD and production deployments
 
 ---
 
@@ -57,124 +55,45 @@ I enjoy solving engineering problems where **architecture, performance, reliabil
 
 ### AI / LLM
 
-- OpenAI APIs
-- LLM integrations
-- AI Agents
-- RAG
-- LangChain
-- Structured Outputs
-- Tool / Function Calling
-- AI-powered search
-- Prompt-driven workflows
+`OpenAI APIs` · `LLM Integrations` · `RAG` · `AI Agents` · `LangChain` · `Structured Outputs` · `Tool Calling`
 
 ---
 
-## 🚀 Featured Projects
-
-### 📊 [Strategy Backtest Agent](https://github.com/changelia/strategy-backtest-agent)
-
-Python-based backtesting engine that combines deterministic strategy execution with natural-language configuration through LLM structured outputs.
-
-**Highlights:**
-
-- Natural language → validated strategy configuration
-- Historical Binance market data
-- RSI / SMA / EMA indicators
-- Deterministic backtesting engine
-- Performance metrics and trading fees
-- CLI and JSON output
-- Pydantic validation
-- OpenAI structured parsing
-- Ruff, mypy, pytest and CI
-
-`Python` `OpenAI` `Pydantic` `CLI` `Trading Systems` `Testing`
-
----
-
-### 🔎 [LangChain Desearch](https://github.com/changelia/langchain-desearch)
-
-LangChain integration for Desearch APIs providing search, web retrieval, Twitter/X data tools, RAG workflows, and agent integrations.
-
-**Includes:**
-
-- Web search tools
-- AI search
-- Twitter/X retrieval tools
-- LangChain agent integration
-- RAG workflows
-- External API integrations
-
-`Python` `LangChain` `RAG` `AI Agents` `Search`
-
----
-
-### 🤖 [L3AGI](https://github.com/changelia/L3AGI)
-
-Open-source platform for building and coordinating teams of AI agents.
-
-Architecture includes a **React frontend**, **FastAPI backend**, and Docker-based local infrastructure.
-
-`Python` `FastAPI` `React` `AI Agents` `Docker`
-
----
-
-### 🎵 [YouTube Multi-threaded Downloader](https://github.com/changelia/youtube-downloader)
-
-Concurrent Python utility built around `yt-dlp` and FFmpeg for processing and downloading playlist media efficiently.
-
-`Python` `Concurrency` `yt-dlp` `FFmpeg`
-
----
-
-## 🧠 Engineering Interests
-
-I'm currently focused on building deeper expertise around:
-
-- AI Agents and agent orchestration
-- LLM production architecture
-- RAG and vector search
-- Distributed backend systems
-- Async processing and queues
-- Redis / Kafka / RabbitMQ
-- System design
-- API architecture
-- Observability and reliability
-- AI evaluation and tracing
-
----
-
-## 💼 What I Work With
+## ⚙️ Engineering
 
 ```text
-Frontend
-React · Next.js · TypeScript
+Backend        REST APIs · Async Processing · Background Jobs
+               Caching · Authentication · WebSockets
 
-Backend
-Python · FastAPI · Node.js · NestJS
+Frontend       React · Next.js · TypeScript
 
-Data
-PostgreSQL · Redis · MongoDB
+Data           PostgreSQL · Redis · MongoDB
 
-AI
-OpenAI · LLM APIs · RAG · Agents · LangChain
+AI             LLM APIs · RAG · Agents · AI Search
 
-Infrastructure
-Docker · GitHub Actions · AWS · Vercel · Northflank
+Infrastructure Docker · CI/CD · AWS · GitHub Actions
 
-Architecture
-REST APIs · Async Processing · Caching · Background Jobs
-Distributed Systems · CI/CD
+Architecture   Scalable Systems · API Design · System Design
 ```
 
 ---
 
-## 🤝 Open to Opportunities
+## 🎯 Current Focus
 
-I'm interested in opportunities involving:
+I'm currently expanding my work around **AI-native software engineering**, combining traditional full-stack development with:
 
-**Full-Stack Engineering · Backend Engineering · Python · Node.js · AI / LLM Applications**
+- LLM application architecture
+- RAG and vector search
+- AI agents and tool calling
+- AI evaluation and observability
+- Distributed and event-driven systems
+- System design and scalability
 
-Especially roles where I can work on scalable backend systems, modern web applications, or AI-enabled products.
+---
+
+## 💼 Open to Opportunities
+
+I'm open to **Full-Stack, Backend, and AI Engineering** opportunities where I can work on production systems, scalable APIs, modern web applications, and AI-enabled products.
 
 ---
 
@@ -184,11 +103,9 @@ Especially roles where I can work on scalable backend systems, modern web applic
   <a href="mailto:changelia97@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
   <a href="https://www.linkedin.com/changelia">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="https://x.com/changelia_levan">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
